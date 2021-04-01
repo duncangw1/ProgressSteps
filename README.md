@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of the Project Steps project is to practice constructing a simple visual progress counter with CSS transitions and JavaScript. This has been completed following Udemy's "50 Projects in 50 Days" course. Please view the deployed application [here](#) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
+The purpose of the Project Steps project is to practice constructing a simple visual progress counter with CSS transitions and JavaScript. This has been completed following Udemy's "50 Projects in 50 Days" course. Please view the deployed application [here](https://duncangw1.github.io/ProgressSteps/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
 
 :heavy_check_mark: Project 2 out of 50 complete!
 
@@ -40,7 +40,7 @@ _Guidelines for usage & application demo._
 
 There are no usage guidelines for this application. Please see the gif below for a brief overview of the app.
 
-![Progress Steps Demo](assets/images/#)
+![Progress Steps Demo](assets/images/ProgressStepsDemo.gif)
 
 ## Licenses
 
